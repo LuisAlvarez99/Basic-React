@@ -1,0 +1,13 @@
+#mainContain{
+    display: flex;
+    justify-content: space-evenly;
+}
+#side{
+    background-color: red;
+}
+#main{
+    background-color: green;
+}
+#extra{
+    background-color: purple;
+}
